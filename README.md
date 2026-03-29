@@ -19,8 +19,10 @@ Environment: Hyprland, Zsh, Custom Bordeaux Aesthetic.
 Project: RedRose OS
 
 Objective: Trace-free, high-performance security distribution.
+ <p>
+                <a href="https://discord.gg/SsEprcjTAU" target="_blank" rel="noopener" class="btn" style="background:#5865F2;border:none;color:#fff">Join our Discord</a>
+            </p>
 
-Next Event: v0.1 Snapshot Release scheduled for Next Friday.
 💻 Stack
 <p align="left">
   <a href="https://www.tiktok.com/@assapyls" target="_blank">
