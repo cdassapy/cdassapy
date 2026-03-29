@@ -13,7 +13,6 @@ OS Development: Arch Linux, Kernel Optimization, Custom ISO.
 
 Cybersecurity: Pentesting, Anonymity Networks, Anti-Forensics.
 
-Environment: Hyprland, Zsh, Custom Bordeaux Aesthetic.
 
 🌹 Ongoing Operation
 Project: RedRose OS
